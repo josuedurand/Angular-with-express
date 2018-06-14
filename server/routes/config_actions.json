@@ -1,0 +1,6 @@
+{
+    "GET/users": {
+        "controler": "users",
+        "schema": "Users"
+    }
+}

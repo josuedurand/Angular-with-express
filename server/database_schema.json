@@ -1,0 +1,15 @@
+{
+    "Users" : {
+        "collection" : "users",
+        "schema" : {
+            "_id": "ObjectId",
+            "civility": "String",
+            "lastName": "String",
+            "firstName": "String",
+            "mail": "String",
+            "password": "String",
+            "profil": "String",
+            "college": "Array"
+        }
+    }
+}
